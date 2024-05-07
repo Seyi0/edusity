@@ -23,7 +23,7 @@ const Navbar = () => {
         <li>Campus</li>
         <li>Testimonials</li>
         <li>
-          <button className='btn'>Contact us</button>
+          <button className='btn'>Contact us 📨 </button>
         </li>
       </ul>
     </nav>
